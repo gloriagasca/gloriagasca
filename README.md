@@ -1,7 +1,7 @@
 <h1 align="center">👩‍💻 Gloria Gasca</h1>
 
 <p align="center">
---- descripcion 
+Docente investigadora titular de la Universidad de Medellín en la Facultad de Ingenierías. Tiene su pregrado en Ingeniería de Sistemas, es Especialista en Auditoría de Sistemas; y su Doctorado fue realizado en la Universidad Politécnica de Madrid, España en el Departamento de Lenguajes, Sistemas Informáticos e Ingeniería de Software de la Facultad de Informática. Sus áreas de investigación incluyen:  tecnologías de información y comunicación (TIC), definición, mejora y optimización de procesos software, productividad de equipos de desarrollo de software y la influencia de soft-skills, uso de entornos multimodelo, desarrollo de software en equipos y metodologías ágiles de software aplicados a pequeñas y medianas empresas (pymes), auditoría de sistemas y seguridad informática entre otros temas referentes. Sus intereses en docencia son: Ingeniería de Software, Gestión, Planificación y estimación de proyectos informáticos, Metodologías de desarrollo de software y Mejora de procesos software, así como gamificación en entornos académicos e industriales para mejorar el proceso de desarrollo de software. 
 </p>
 
 ---
