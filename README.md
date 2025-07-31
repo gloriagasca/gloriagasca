@@ -1,8 +1,7 @@
 <h1 align="center">👩‍💻 Gloria Gasca</h1>
 
 <p align="center">
-Docente e investigadora en Ingeniería de Software, Educación STEM y Sostenibilidad 🌱<br>
-Apasionada por el aprendizaje activo, la tecnología con propósito y el desarrollo de proyectos reales que transforman 💡
+--- descripcion 
 </p>
 
 ---
@@ -30,14 +29,8 @@ Apasionada por el aprendizaje activo, la tecnología con propósito y el desarro
 ### 📫 Contacto
 
 <p>
-  <a href="mailto:gloriagasca@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-gloriagasca@ejemplo.com-blue?style=flat-square&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gloriagasca">
+  <a href="https://www.linkedin.com/in/gloriagascah/">
     <img src="https://img.shields.io/badge/LinkedIn-gloriagasca-0077B5?style=flat-square&logo=linkedin"/>
-  </a>
-  <a href="https://twitter.com/gloriagasca">
-    <img src="https://img.shields.io/badge/Twitter-@gloriagasca-1DA1F2?style=flat-square&logo=twitter"/>
   </a>
 </p>
 
@@ -51,22 +44,3 @@ Apasionada por el aprendizaje activo, la tecnología con propósito y el desarro
 - 🌍 Creo en la educación como herramienta para transformar la sociedad.
 
 ---
-
-> _“La tecnología es una herramienta, lo importante es para qué y con quién la construimos.”_
-
----
-
-### ⭐ Repositorios destacados
-
-Puedes fijar hasta 6 desde la interfaz de GitHub. Recomiendo:
-
-1. `GestionDeProyectos`
-2. Proyecto de biochar
-3. JUMI
-4. Tu proyecto de microalgas o sostenibilidad
-5. Curso de Química Orgánica Ambiental
-6. Cualquier trabajo de aula con estudiantes (por ejemplo, videojuegos, laberintos, etc.)
-
----
-
-¿Quieres que te lo entregue como archivo listo para subir (`README.md`) o pegar en tu repositorio personal `gloriagasca`? También puedo incluir animaciones, contadores de visitas, gráficos, etc., si lo deseas.
